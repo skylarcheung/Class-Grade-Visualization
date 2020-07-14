@@ -3,6 +3,7 @@
 <h5>Code can be altered to make visualizations of your scores.</h5>
 <p>R code produces graph comparing essay 1 score to midterm score among students with grades for both assignments. Code also produces a histogram of mean grade distribution. Very barebones code, nothing pretty—just does the job.</p>
 <br>
+
 ![alt text](https://github.com/skylarcheung/Class-Grade-Visualization/blob/master/graph.png?raw=true)
 
 <br>
